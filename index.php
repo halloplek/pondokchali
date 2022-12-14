@@ -7,6 +7,8 @@ require ('template/header.php') ;
 ?>
 
 
+<!-- update data baru -->
+
 <div class="slider">
     <!-- Set up your HTML -->
     <div class="owl-carousel ">
